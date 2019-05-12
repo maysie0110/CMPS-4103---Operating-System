@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\may trinh\desktop\cmps 4103 - operating system\osproject\osproject\source.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\may trinh\desktop\cmps 4103 - operating system\osproject\osproject\source.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\may trinh\desktop\cmps 4103 - operating system\osproject\osproject\source.cpp(41): error C4716: 'multiply': must return a value

@@ -1,0 +1,7 @@
+The array results are: 
+[1031] [4503] 2499.03
+[1032] [4502] 2515.44
+[1032] [4503] 2500
+[1032] [4504] 2492.26
+[1033] [4503] 2502.77
+Processing time of the array multiplication was 10206887 milliseconds

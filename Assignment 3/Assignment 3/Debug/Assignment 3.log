@@ -1,0 +1,6 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol __imp__pthread_create referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__pthread_join referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__pthread_mutex_lock referenced in function "void * __cdecl sum_array(void *)" (?sum_array@@YAPAXPAX@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp__pthread_mutex_unlock referenced in function "void * __cdecl sum_array(void *)" (?sum_array@@YAPAXPAX@Z)
+C:\Users\May Trinh\Desktop\CMPS 4103 - Operating System\Assignment 3\Debug\Assignment 3.exe : fatal error LNK1120: 4 unresolved externals

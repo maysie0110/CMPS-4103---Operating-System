@@ -1,0 +1,1 @@
+Total sum from 1 to 5000 is 12502500

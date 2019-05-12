@@ -1,0 +1,12 @@
+Test 2 on Thursday, November 29th
+8 questions
+
+1. Questions about File System (HW)
+	different way to put file together (contiguous) 
+	find free space
+	FAT - linked list
+	
+2. Questions about Virtual memory (HW)
+3. Questions about Disks
+	
+4. Questions about deadlocks

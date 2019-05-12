@@ -1,0 +1,3 @@
+﻿  MS-SHELL.cpp
+c:\users\may trinh\desktop\ms-shell\ms-shell\ms-shell.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MS-SHELL.vcxproj -> C:\Users\May Trinh\Desktop\MS-SHELL\Debug\MS-SHELL.exe

@@ -1,0 +1,4 @@
+﻿  Source (without threads).cpp
+c:\users\may trinh\desktop\cmps 4103 - operating system\osproject(without threads)\osproject(without threads)\source (without threads).cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\may trinh\desktop\cmps 4103 - operating system\osproject(without threads)\osproject(without threads)\source (without threads).cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OSProject(without threads).vcxproj -> C:\Users\May Trinh\Desktop\CMPS 4103 - Operating System\OSProject(without threads)\Debug\OSProject(without threads).exe
